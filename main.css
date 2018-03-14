@@ -1,0 +1,11 @@
+#ball1 {
+  position: fixed;
+  bottom: 50%;
+  right: 50%;
+}
+
+#ball2 {
+  position: fixed;
+  bottom: 25%;
+  right: 25%;
+}
